@@ -5,7 +5,6 @@ int main() {
     int b;
     int c;
 
-    printf("Produto de dois números inteiros\n");
     printf("Digite um número\n");
     scanf("%d", &a);
     printf("Digite outro número\n");
@@ -13,7 +12,7 @@ int main() {
     c = a * b;
 
 
-    printf("Produto = %d\n", c);
+    printf("O produto é %d\n", c);
 
     return 0;
 }

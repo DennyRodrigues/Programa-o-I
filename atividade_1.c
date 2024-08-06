@@ -13,7 +13,7 @@ int main() {
     c = a + b;
 
 
-    printf("Soma = %d\n", c);
+    printf("A soma é: %d\n", c);
 
     return 0;
 }
